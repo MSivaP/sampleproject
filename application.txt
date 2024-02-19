@@ -1,0 +1,17 @@
+which needs to close 
+
+eg: 
+===
+	PermitRootLogin yes
+	USB is allowed
+	it is a database server but we are using the vsftpd service
+	old nfs version is running
+	any old packages which are running
+	patching is required
+	kernel parameter is enabled? which needs to be disabled
+	
+vulnerability tool:Qualis guard
+===================
+every 15 days or every month once report will be delivered to you team
+
+
