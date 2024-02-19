@@ -1,0 +1,19 @@
+Install the git
+CMD : yum install git
+Install the java
+CMD : yum install java
+Install the maven 
+yum install maven -y
+
+
+https://www.linuxbuzz.com/install-jenkins-on-rhel-rockylinux-almalinux/
+
+
+
+wget -O /etc/yum.repos.d/jenkins.repo \
+    https://pkg.jenkins.io/redhat-stable/jenkins.repo
+	
+rpm --import https://pkg.jenkins.io/redhat-stable/jenkins.io-2023.key
+
+
+dnf install jenkins -y
